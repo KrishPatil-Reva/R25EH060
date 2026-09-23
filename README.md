@@ -1,1 +1,2 @@
 Hello, I am Krish, a B.Tech student specializing in Artificial Intelligence and Data Science. I am interested in programming, data science, artificial intelligence, and software development. I am currently developing my technical skills in C, Python, DBMS, Git, and GitHub while working on academic and personal projects. This repository contains my learning work, projects, and practical assignments as I continue to improve my programming and development skills.
+Current Focus: Improving programming, GitHub, and AI & Data Science skills.
